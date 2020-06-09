@@ -17,6 +17,8 @@ import javax.swing.JTextArea;
 import com.zkteco.biometric.FingerprintSensorErrorCode;
 import com.zkteco.biometric.FingerprintSensorEx;
 
+
+
 public class HuellaDigital extends JFrame{
 private static final long serialVersionUID = 1L;
 	

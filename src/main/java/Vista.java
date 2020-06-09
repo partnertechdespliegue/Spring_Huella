@@ -16,6 +16,7 @@ import javax.swing.JFrame;
 import com.zkteco.biometric.FingerprintSensorErrorCode;
 import com.zkteco.biometric.FingerprintSensorEx;
 
+
 public class Vista extends JFrame {
 
 	public Vista() {
